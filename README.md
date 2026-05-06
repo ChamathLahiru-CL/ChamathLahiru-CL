@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lahiru Jayasuriya</h1>
-<h3 align="center">🧪 Aspiring QA Engineer | Automation Tester | API Testing Enthusiast</h3>
+<h3 align="center">🧪 Aspiring QA Engineer | Selenium & Playwright Automation Tester | API Testing Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Quality+Assurance+Engineer;Automation+Testing+with+Selenium;API+Testing+with+Postman;Building+QA+Frameworks" />
