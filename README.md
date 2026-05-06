@@ -22,10 +22,14 @@
 ## 🧰 Tech Stack
 
 ### 🧪 Testing & QA
-![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
-![TestNG](https://img.shields.io/badge/TestNG-Framework-orange?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-red?style=for-the-badge&logo=postman)
-![JMeter](https://img.shields.io/badge/JMeter-Performance-yellow?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-Test_Cases_&_Bug_Reporting-2E8B57?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation_Testing-43B02A?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-End_to_End_Testing-45BA4B?style=for-the-badge&logo=playwright)
+![TestNG](https://img.shields.io/badge/TestNG-Test_Framework-F28C28?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman)
+![JMeter](https://img.shields.io/badge/JMeter-Performance_Testing-D9A400?style=for-the-badge)
+![BugBug](https://img.shields.io/badge/BugBug-AI_Testing-8A2BE2?style=for-the-badge)
+![API Automation](https://img.shields.io/badge/API_Automation-Validation_&_Testing-007ACC?style=for-the-badge)
 
 ### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-Programming-blue?style=for-the-badge&logo=java)
