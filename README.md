@@ -114,7 +114,7 @@
   <a href="mailto:chamathjayasuriya2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="[https://your-portfolio-link.com](https://www.lahirujayasuriya.me/)">
+  <a href="https://www.lahirujayasuriya.me/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-darkgreen?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="https://wa.me/+94761549723">
