@@ -34,6 +34,7 @@
 ### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-Programming-blue?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Test_Automation-3178C6?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-basic-blue?style=for-the-badge&logo=python)
 
 ### 🛠 Tools & Platforms
@@ -79,7 +80,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamathLahiru-CL&show_icons=true&theme=tokyonight" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ChamathLahiru-CL&show_icons=true&theme=tokyonight" height="180"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathLahiru-CL&theme=tokyonight" height="180"/>
 </p>
 
@@ -104,12 +105,20 @@
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lahiru-jayasuriya-a92147313">
     <img src="https://img.shields.io/badge/LinkedIn-Lahiru%20Jayasuriya-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:chamathjayasuriya2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="[https://your-portfolio-link.com](https://www.lahirujayasuriya.me/)">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-darkgreen?style=for-the-badge&logo=google-chrome"/>
+  </a>
+  <a href="https://wa.me/+94761549723">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
   </a>
 </p>
 
