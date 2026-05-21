@@ -80,7 +80,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ChamathLahiru-CL&show_icons=true&theme=tokyonight" height="180"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathLahiru-CL&theme=tokyonight" height="180"/>
 </p>
 
